@@ -1,3 +1,7 @@
+Target :
+    I will rebuild this project(using python 3.11), and use true random number. 
+
+
 # Python Poker
 Texas Holdem Poker made with Python and TKinter
 
